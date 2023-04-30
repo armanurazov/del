@@ -1,4 +1,4 @@
-Todo List App
+# Todo List App
 This is a simple Todo List app built with React Native.
 
 ![alt text](https://github.com/armanurazov/reminderApp/blob/main/image1.JPG)
